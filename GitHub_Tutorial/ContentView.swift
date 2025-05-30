@@ -18,7 +18,7 @@ struct ContentView: View {
             HStack{
                 Text("Teman: ")
                 Spacer()
-                Text("Nama teman kamu")
+                Text("Rey")
             }
         }
     }
