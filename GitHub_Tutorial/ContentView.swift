@@ -13,12 +13,12 @@ struct ContentView: View {
             HStack{
                 Text("Nama:")
                 Spacer()
-                Text("Nama kamu")
+                Text("Rey")
             }
             HStack{
                 Text("Teman: ")
                 Spacer()
-                Text("Rey")
+                Text("Abel")
             }
         }
     }
