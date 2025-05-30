@@ -5,15 +5,17 @@
 //  Created by Abelito Faleyrio Visese on 30/05/25.
 //
 
+// Branch name: feature/-/abel-page
+
 import SwiftUI
 
-struct ContentView: View {
+struct ABEL: View {
     var body: some View {
         List{
             HStack{
                 Text("Nama:")
                 Spacer()
-                Text("Nama kamu")
+                Text("Abel")
             }
             HStack{
                 Text("Teman: ")
@@ -25,5 +27,5 @@ struct ContentView: View {
 }
 
 #Preview {
-    ContentView()
+    ABEL()
 }
